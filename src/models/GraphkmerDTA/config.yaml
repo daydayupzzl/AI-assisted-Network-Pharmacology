@@ -1,0 +1,8 @@
+# config.yaml
+
+n_output: 1                # The size of the final output layer, usually 1 for regression tasks (default: 1)
+num_features_pro: 54       # The dimensionality of protein graph features (default: 54)
+num_features_mol: 78       # The dimensionality of molecule graph features (default: 78)
+km_feature: 8420           # The dimensionality of k-mer features (default: 8420)
+output_dim: 128            # The output feature dimension of intermediate layers (default: 128)
+dropout: 0.2               # Dropout rate (default: 0.2)
