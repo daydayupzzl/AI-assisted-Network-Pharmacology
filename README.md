@@ -253,17 +253,15 @@ A: You can try reducing the batch size (`batch_size`) or using a higher-performa
 
 **Q: How can I add a new dataset?**
 
-A: Refer to the `datasets/` directory and follow the same preprocessing steps to add a new dataset.
+A: Refer to the `data/` directory and follow the same preprocessing steps to add a new dataset.
 
 ## 🧑‍💻 Contributing
 
 We welcome all developers interested in GraphkmerDTA to contribute code or suggestions.
 
-## 📄 License
-This project is licensed under the MIT License. For details, please refer to the `LICENSE` file.
 ## 😘 Citation
 If you found this work useful please consider citing the article.
-```json
+``` text
 @article{,
     author = {},
     title = "{GraphkmerDTA: Integrating Local Sequence Patterns and Topological Information for Drug-Target Binding Affinity Prediction and Applications in Multi-target Anti-Alzheimer's Drug Discovery}",
