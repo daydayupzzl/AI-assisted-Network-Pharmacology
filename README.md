@@ -8,6 +8,9 @@
 [![pyGaussDCA](https://img.shields.io/badge/pyGaussDCA-green)]()
 [![rdkit 2023.3.2+](https://img.shields.io/badge/rdkit-2023.3.2%2B-purple)]()
 [![torch-geometric 2.3.1+](https://img.shields.io/badge/torch--geometric-2.3.1%2B-yellow)]()
+<div align="center">
+  <img src="figures/logo.jpg" alt="logo" width="300" style="border-radius: 20px;"/>
+</div>
 
 ## 📌 Introduction
 
@@ -16,7 +19,9 @@
 **💕Results**: Therefore, a novel deep learning-based method is proposed named GraphkmerDTA that integrates Kmer features with structural topology. 🚀 Specifically, GraphkmerDTA uses graph neural networks to extract topological features from molecules and proteins and fully connected networks to learn local sequence patterns from Kmer features of proteins. 📊 Experimental results show that GraphkmerDTA outperforms existing methods on benchmark datasets. Additionally, a case study on lung cancer is conducted, and GraphkmerDTA identifies seven known EGFR inhibitors from a screening library of over two thousand compounds. 💡 To further validate the practicality of GraphkmerDTA, our model is integrated with network pharmacology to explore the mechanisms of the Lonicera japonica flower in treating Alzheimer's disease. 🧠 Through this interdisciplinary approach, three potential molecules are identified and finally validated by molecular docking. 🔬 In conclusion, we not only propose a novel AI model for the DTA task but also demonstrate its practical application value in drug discovery by integrating it with traditional drug discovery methods. 🌟
 
 ## 🤖 Architecture
-![Architecture](figures/over_archetecture.jpg)
+<div align="center">
+  <img src="figures/over_archetecture.jpg" alt="logo" width="600"/>
+</div>
 
 ## 📦 Installation
 
