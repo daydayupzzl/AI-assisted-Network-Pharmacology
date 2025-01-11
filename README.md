@@ -262,14 +262,15 @@ We welcome all developers interested in GraphkmerDTA to contribute code or sugge
 ## 😘 Citation
 If you found this work useful please consider citing the article.
 ``` text
-@article{,
-    author = {},
-    title = "{GraphkmerDTA: Integrating Local Sequence Patterns and Topological Information for Drug-Target Binding Affinity Prediction and Applications in Multi-target Anti-Alzheimer's Drug Discovery}",
-    journal = {},
-    pages = {},
-    year = {},
-    month = {},
-    doi = {},
-    url = {},
+﻿@Article{Zhang2025,
+author={Zhang, Zuolong and Luo, Gang and Ma, Yixuan and Wu, Zhaoqi and Peng, Shuo and Chen, Shengbo and Wu, Yi},
+title={GraphkmerDTA: integrating local sequence patterns and topological information for drug-target binding affinity prediction and applications in multi-target anti-Alzheimer's drug discovery},
+journal={Molecular Diversity},
+year={2025},
+month={Jan},
+day={10},
+issn={1573-501X},
+doi={10.1007/s11030-024-11065-7},
+url={https://doi.org/10.1007/s11030-024-11065-7}
 }
 ```
